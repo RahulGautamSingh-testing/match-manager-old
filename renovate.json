@@ -1,7 +1,7 @@
 {
   "packageRules":[
     {
-      "matchManagers": ["regex", "node"],
+      "matchManagers": ["regex", "npm"],
       "groupName": "special-managers"
     }
   ],
